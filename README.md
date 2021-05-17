@@ -4,5 +4,5 @@ Trabalho desenvolvido na disciplina Teoria da Computação do Programa de Pós-G
 
 ## Teste
 
-a) Teste1.
-b) Teste2.
+* Teste1.
+* Teste2.
