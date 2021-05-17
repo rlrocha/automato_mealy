@@ -18,3 +18,7 @@ T = “O computador é uma máquina capaz de variados tipos de tratamento autom�
 ## Máquina de Mealy
 
 Implementar um transdutor finito (máquina de Moore ou Mealy) que, dada uma sequência de moedas de 25 e 50 centavos e de 1 real, forneça uma lata de refrigerante quando a sequência totalizar 1 real ou mais. Cada moeda inserida deverá corresponder a uma de duas saídas: 0, se uma lata não pode ser (ainda) liberada, ou 1, se u ma lata deve ser liberada. Exemplo:
+
+| Entrada: | 50 | 25 | 50 | 100 | 25 | 50 | 10 | ... |
+|:--------:|:--:|:--:|:--:|:---:|:--:|:--:|:--:|:---:|
+|  Saída:  |  0 |  0 |  1 |  1  |  0 |  1 |  1 | ... |
