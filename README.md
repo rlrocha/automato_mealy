@@ -2,7 +2,7 @@
  
 Trabalho desenvolvido na disciplina Teoria da Computação do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal do Pará (UFPA) em 2021.1. Trabalho desenvolvido pelo aluno de doutorado Rafael Rocha. O trabalho consiste em densenvolver autômato finito e máquina de Mealy para determinadas tarefas.
 
-## Autômato
+## [Autômato](automato.py)
 
 Implementar um autômato finito deterministico (AFD) que aceitem as seguintes cadeias:
 
