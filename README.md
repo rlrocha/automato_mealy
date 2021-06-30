@@ -1,6 +1,8 @@
 # Autômatos e Máquina de Mealy
  
-Trabalho desenvolvido na disciplina Teoria da Computação do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal do Pará (UFPA) em 2021.1. O trabalho consiste em densenvolver autômato finito e máquina de Mealy para determinadas tarefas.
+Trabalho desenvolvido na disciplina Teoria da Computação do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal do Pará (UFPA) em 2021.1.
+
+O trabalho consiste em densenvolver autômato finito e máquina de Mealy para determinadas tarefas.
 
 ## [Autômato](automato.py)
 
