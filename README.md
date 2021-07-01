@@ -12,7 +12,7 @@ Implementar um autômato finito deterministico (AFD) que aceitem as seguintes ca
 
 ![Autômato 1](imagens/automato1.png)
 
-<img src="imagens/automato1.png" alt="drawing" width="500"/>
+<!-- <img src="imagens/automato1.png" alt="drawing" width="500"/> -->
 
 * Todoas as cadeias em {a,b}* de modo que o último símbolo seja b e o número de símbolos a seja par.
 
@@ -46,4 +46,6 @@ Implementar um transdutor finito (máquina de Moore ou Mealy) que, dada uma sequ
 |:--------:|:--:|:--:|:--:|:---:|:--:|:--:|:--:|:---:|
 |  Saída:  |  0 |  0 |  1 |  1  |  0 |  1 |  1 | ... |
 
-![Máquina de Mealy](imagens/mealy.png)
+<!-- ![Máquina de Mealy](imagens/mealy.png) -->
+
+<img src="imagens/mealy.png" alt="drawing" width="500"/>
