@@ -12,7 +12,7 @@ Implementar um autômato finito deterministico (AFD) que aceitem as seguintes ca
 
 ![Autômato 1](imagens/automato1.png)
 
-<img src="imagens/automato1.png" alt="drawing" width="200"/>
+<img src="imagens/automato1.png" alt="drawing" width="500"/>
 
 * Todoas as cadeias em {a,b}* de modo que o último símbolo seja b e o número de símbolos a seja par.
 
