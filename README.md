@@ -22,7 +22,11 @@ Implementar um autômato finito deterministico (AFD) que aceitem as seguintes ca
 
 * Todoas as cadeias em {a,b}* de modo que o último símbolo seja b e o número de símbolos a seja par.
 
-![Autômato 2](imagens/automato2.png?style=centerme)
+<!-- ![Autômato 2](imagens/automato2.png?style=centerme) -->
+
+<p align="center">
+    <img src="imagens/automato2.png">
+</p>
 
 ## [Autômato para busca de padrão](automato_buscaPadrao.py)
 
@@ -52,4 +56,8 @@ Implementar um transdutor finito (máquina de Moore ou Mealy) que, dada uma sequ
 |:--------:|:--:|:--:|:--:|:---:|:--:|:--:|:--:|:---:|
 |  Saída:  |  0 |  0 |  1 |  1  |  0 |  1 |  1 | ... |
 
-![Máquina de Mealy](imagens/mealy.png?style=centerme)
+<!-- ![Máquina de Mealy](imagens/mealy.png) -->
+
+<p align="center">
+    <img src="imagens/mealy.png">
+</p>
