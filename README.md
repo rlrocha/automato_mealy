@@ -10,7 +10,9 @@ Implementar um autômato finito deterministico (AFD) que aceitem as seguintes ca
 
 * Todas as cadeias em {0,1}* que apresentam cada 1 seguido imediatamente de dois 0.
 
-![Autômato 1](imagens/automato1.png?style=centerme)
+![Autômato 1](imagens/automato1.png) {.center}
+
+<!-- ![Autômato 1](imagens/automato1.png?style=centerme) -->
 
 <!-- <img src="imagens/automato1.png" alt="drawing" width="500"/> -->
 
