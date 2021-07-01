@@ -9,17 +9,18 @@ O trabalho consiste em densenvolver autômato finito e máquina de Mealy para de
 Implementar um autômato finito deterministico (AFD) que aceitem as seguintes cadeias:
 
 * Todas as cadeias em {0,1}* que apresentam cada 1 seguido imediatamente de dois 0.
-* Todoas as cadeias em {a,b}* de modo que o último símbolo seja b e o número de símbolos a seja par.
 
 ![Autômato 1](imagens/automato1.png)
+
+* Todoas as cadeias em {a,b}* de modo que o último símbolo seja b e o número de símbolos a seja par.
+
+![Autômato 2](imagens/automato2.png)
 
 ## [Autômato para busca de padrão](automato_buscaPadrao.py)
 
 Implementar um autômato finito que reconheça todas as ocorrências da palavra computador no texto T. O programa deve apontar em quais posições ocorreram o casamento exato da palavra.
 
 T = “O computador é uma máquina capaz de variados tipos de tratamento automático de informações ou processamento de dados. Entende se por computador um sistema físico que realiza algum tipo de computação. Assumiu se que os computadores pessoais e laptops são ícones da era da informação . O primeiro computador eletromecânico foi construído por Konrad Zuse (1910 1995). Atualmente, um microcomputador é também chamado computador pessoal ou ainda computador doméstico.”
-
-![Autômato 2](imagens/automato2.png)
 
 ## [Máquina de Mealy](maquina_mealy.py)
 
