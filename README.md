@@ -46,6 +46,4 @@ Implementar um transdutor finito (máquina de Moore ou Mealy) que, dada uma sequ
 |:--------:|:--:|:--:|:--:|:---:|:--:|:--:|:--:|:---:|
 |  Saída:  |  0 |  0 |  1 |  1  |  0 |  1 |  1 | ... |
 
-<!-- ![Máquina de Mealy](imagens/mealy.png) -->
-
-<img src="imagens/mealy.png" alt="drawing" width="500"/>
+![Máquina de Mealy](imagens/mealy.png)
