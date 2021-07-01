@@ -22,9 +22,7 @@ Implementar um autômato finito que reconheça todas as ocorrências da palavra 
 
 T = “O computador é uma máquina capaz de variados tipos de tratamento automático de informações ou processamento de dados. Entende se por computador um sistema físico que realiza algum tipo de computação. Assumiu se que os computadores pessoais e laptops são ícones da era da informação . O primeiro computador eletromecânico foi construído por Konrad Zuse (1910 1995). Atualmente, um microcomputador é também chamado computador pessoal ou ainda computador doméstico.”
 
-<img src="https://render.githubusercontent.com/render/math?math=\sum=\lbrace a, b, c, ..., z\rbrace">
-
-|     | <img src="https://render.githubusercontent.com/render/math?math=\delta" |  c |  o |  m |  p |  u |  t |  a |  d |  r  |
+|     | <img src="https://render.githubusercontent.com/render/math?math=\delta"> |  c |  o |  m |  p |  u |  t |  a |  d |  r  |
 |:---:|:-----:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|
 | <img src="https://render.githubusercontent.com/render/math?math=\rightarrow"> |   q0  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 |
 |     |   q1  | q1 | q2 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 |
