@@ -24,21 +24,19 @@ T = “O computador é uma máquina capaz de variados tipos de tratamento autom�
 
 <img src="https://render.githubusercontent.com/render/math?math=\sum=\lbrace a, b, c, ..., z\rbrace">
 
-|     | Delta |  c |  o |  m |  p |  u |  t |  a |  d |  r  |  T |
+|     | <img src="https://render.githubusercontent.com/render/math?math=\delta" |  c |  o |  m |  p |  u |  t |  a |  d |  r  |
 |:---:|:-----:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--:|
-| <img src="https://render.githubusercontent.com/render/math?math=\rightarrow"> |   q0  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 | q0 |
-|     |   q1  | q1 | q2 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 | q0 |
-|     |   q2  | q1 | q0 | q3 | q0 | q0 | q0 | q0 | q0 |  q0 | q0 |
-|     |   q3  | q1 | q0 | q0 | q4 | q0 | q0 | q0 | q0 |  q0 | q0 |
-|     |   q4  | q1 | q0 | q0 | q0 | q5 | q0 | q0 | q0 |  q0 | q0 |
-|     |   q5  | q1 | q0 | q0 | q0 | q0 | q6 | q0 | q0 |  q0 | q0 |
-|     |   q6  | q1 | q0 | q0 | q0 | q0 | q0 | q7 | q0 |  q0 | q0 |
-|     |   q7  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q8 |  q0 | q0 |
-|     |   q8  | q1 | q9 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 | q0 |
-|     |   q9  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q0 | q10 | q0 |
-| Fin |  q10  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 | q0 |
-
-\rightarrow
+| <img src="https://render.githubusercontent.com/render/math?math=\rightarrow"> |   q0  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 |
+|     |   q1  | q1 | q2 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 |
+|     |   q2  | q1 | q0 | q3 | q0 | q0 | q0 | q0 | q0 |  q0 |
+|     |   q3  | q1 | q0 | q0 | q4 | q0 | q0 | q0 | q0 |  q0 |
+|     |   q4  | q1 | q0 | q0 | q0 | q5 | q0 | q0 | q0 |  q0 |
+|     |   q5  | q1 | q0 | q0 | q0 | q0 | q6 | q0 | q0 |  q0 |
+|     |   q6  | q1 | q0 | q0 | q0 | q0 | q0 | q7 | q0 |  q0 |
+|     |   q7  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q8 |  q0 |
+|     |   q8  | q1 | q9 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 |
+|     |   q9  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q0 | q10 |
+| <img src="https://render.githubusercontent.com/render/math?math=\leftarrow"> |  q10  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 |
 
 ## [Máquina de Mealy](maquina_mealy.py)
 
