@@ -25,7 +25,7 @@ T = “O computador é uma máquina capaz de variados tipos de tratamento autom�
 <img src="https://render.githubusercontent.com/render/math?math=\sum=\lbrace a, b, c, ..., z\rbrace">
 
 |     | <img src="https://render.githubusercontent.com/render/math?math=\delta" |  c |  o |  m |  p |  u |  t |  a |  d |  r  |
-|:---:|:-----:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--:|
+|:---:|:-----:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|
 | <img src="https://render.githubusercontent.com/render/math?math=\rightarrow"> |   q0  | q1 | q0 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 |
 |     |   q1  | q1 | q2 | q0 | q0 | q0 | q0 | q0 | q0 |  q0 |
 |     |   q2  | q1 | q0 | q3 | q0 | q0 | q0 | q0 | q0 |  q0 |
