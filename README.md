@@ -11,6 +11,8 @@ Implementar um autômato finito deterministico (AFD) que aceitem as seguintes ca
 * Todas as cadeias em {0,1}* que apresentam cada 1 seguido imediatamente de dois 0.
 * Todoas as cadeias em {a,b}* de modo que o último símbolo seja b e o número de símbolos a seja par.
 
+![Autômato 1](imagens/automato1.png)
+
 ## [Autômato para busca de padrão](automato_buscaPadrao.py)
 
 Implementar um autômato finito que reconheça todas as ocorrências da palavra computador no texto T. O programa deve apontar em quais posições ocorreram o casamento exato da palavra.
