@@ -59,5 +59,5 @@ Implementar um transdutor finito (máquina de Moore ou Mealy) que, dada uma sequ
 <!-- ![Máquina de Mealy](imagens/mealy.png) -->
 
 <p align="center">
-    <img src="imagens/mealy.png">
+    <img width="600" src="imagens/mealy.png">
 </p>
