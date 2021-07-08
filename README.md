@@ -1,5 +1,6 @@
 # Autômatos e Máquina de Mealy
- 
+[<img src="https://img.shields.io/badge/author-rlrocha-orange?style=flat-square"/>](https://github.com/rlrocha)
+
 Trabalho desenvolvido na disciplina Teoria da Computação do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal do Pará (UFPA) em 2021.1.
 
 O trabalho consiste em densenvolver autômato finito e máquina de Mealy para determinadas tarefas, conforme descrito abaixo.
